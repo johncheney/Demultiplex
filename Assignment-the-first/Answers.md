@@ -12,8 +12,12 @@
 
 2. Per-base NT distribution
     1. Use markdown to insert your 4 histograms here.
-    2. ```Your answer here```
+![R1_histogram](https://user-images.githubusercontent.com/71104613/127625815-8115ed02-cba1-492b-86d4-9677a66c0e95.png)
+![R2_histogram](https://user-images.githubusercontent.com/71104613/127625832-230988a3-1b5b-4292-b97b-2d49ec131b21.png)
+![R3_histogram](https://user-images.githubusercontent.com/71104613/127625844-3cd50cef-9edf-4bc1-b91c-673a63185b23.png)
+![R4_histogram](https://user-images.githubusercontent.com/71104613/127625856-3924f40a-a223-4ccd-baa8-789b2a99697f.png)
     3. ```Your answer here```
+    4. ```Your answer here```
     
 ## Part 2
 1. Define the problem
