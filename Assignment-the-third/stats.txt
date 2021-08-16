@@ -1,0 +1,6 @@
+30782462 unknown reads
+617939 index swapped reads
+301766024 matched index reads
+30080310 bad quality reads
+363246735 total reads
+0.17011550014344934 percent swapping occured
